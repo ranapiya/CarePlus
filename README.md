@@ -1,3 +1,6 @@
+
+![Screenshot 2024-08-05 201911](https://github.com/user-attachments/assets/e9b6d3ca-8b77-42da-a3eb-2df7374aae7f)
+
 A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built using Next.js.
 
 - Next.js
