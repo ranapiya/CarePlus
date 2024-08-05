@@ -1,4 +1,4 @@
-// File: D:\projects-personal\healthcare\app\patients\[userId]\register\page.tsx
+// File: D:\projects-personal\careplus\app\patients\[userId]\register\page.tsx
 import * as entry from '../../../../../../app/patients/[userId]/register/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
